@@ -1,4 +1,4 @@
-# 📚 Project Submission Structure
+# Agri-AI-Platform Structure
 
 This repository represents the combination of two Machine Learning projects into one integrated application.
 
